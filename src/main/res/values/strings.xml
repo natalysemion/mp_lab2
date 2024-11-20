@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab2Mobile</string>
+    <string name="select_contact_prompt">Select Contact</string>
+</resources>
